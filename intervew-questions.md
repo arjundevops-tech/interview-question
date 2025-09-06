@@ -4,7 +4,7 @@
   1. Can you please write a shell script to display all running containers and volumes and
      also display which volumes are not in use.
   2. Can you write multi stage docker file
-  3. Can you explain me 3 tire application networking in aws 
+  3. Can you explain me 3 tire application networking in aws with ec2 servers
   4. Can you expain how to copy one stage artifacts into other stage in gitlab pipeline.
 ```
 
