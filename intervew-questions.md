@@ -46,10 +46,12 @@
 ## Interview on 02-09-25
 -------------------------
 ```
-  1. one scenario: Here we have a nodejs app running on 3000 port, already deployed on aws ec2 instance and
+  1. scenario: Here we have a nodejs app running on 3000 port, already deployed on aws ec2 instance and
      also already configured application load balancer then i want access this application with dns name using load balancer. 
      all configuration done but we are facing networking issue. So we need to configure security groups like security-group-1 for ec2 and 
      security-group-2 for load balancer according this tell me the configuration of security groups of 1 and 2.
+  2. scenario: we have two vpc's pvc-1 and pvc-2. vpc-1 i have created for private database(db). vpc-2 i have created for ec2 server. now i want access private db through ec2 instance how we can do that.
+
 ```
   
   
