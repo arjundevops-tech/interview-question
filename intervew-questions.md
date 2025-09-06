@@ -47,8 +47,9 @@
 -------------------------
 ```
   1. one scenario: Here we have a nodejs app running on 3000 port, already deployed on aws ec2 instance and
-     also already configured application load balancer then i want access this application with dns name using load balancer.
-     all configuration done but we are facing networking issue. So we need to configure security groups like security-group-1 for ec2 and security-group-2 for load balancer according this tell me the configuration of security groups of 1 and 2.
+     also already configured application load balancer then i want access this application with dns name using load balancer. \
+     all configuration done but we are facing networking issue. So we need to configure security groups like security-group-1 for ec2 and \
+     security-group-2 for load balancer according this tell me the configuration of security groups of 1 and 2.
 ```
   
   
