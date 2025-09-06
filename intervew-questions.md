@@ -9,8 +9,8 @@
 ------------------------
   # What were your roles and responsibilities when working with GitLab
   # Have you worked on Terraform from scratch?
-  # What are the monitoring tools experieance you have 
-  # Have you ever configured configure promethous and grafana or you used as user
+  # What are the monitoring tools experiance you have 
+  # Have you ever configured promethous and grafana or you used as user
   # What are the server less issues you resolved in gitlab
   # Can you explain me what is the different between scripted pipline and declarative pipeline in jenkins
   # what is the most complex pipline you have created 
