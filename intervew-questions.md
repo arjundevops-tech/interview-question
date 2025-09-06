@@ -39,12 +39,17 @@
   3. what is the networking aws eks cluster. how you configured netowrking in eks cluster
   4. How you integrated jenkins with eks cluster to do the application deployment.
   5. waht type deployment strategies we have in eks or any deployment.
-  6. 30% of application request failling how you debug this issue then how you will resolve this issue in k8s or running application on servers
+  6. 30% of application request failling how you debug this issue and
+     how you will resolve this issue in k8s or running application on servers
 ```
   
 ## Interview on 02-09-25
 -------------------------
-  # one scenario: Here we have a nodejs app running on 3000 port, already deployed on aws ec2 instance and also already configured application load balancer then i want access this application with dns name using load balancer. all configuration done but we are facing networking issue. So we need to configure security groups like security-group-1 for ec2 and security-group-2 for load balancer according this tell me the configuration of security groups of 1 and 2.
+```
+  1. one scenario: Here we have a nodejs app running on 3000 port, already deployed on aws ec2 instance and
+     also already configured application load balancer then i want access this application with dns name using load balancer.
+     all configuration done but we are facing networking issue. So we need to configure security groups like security-group-1 for ec2 and security-group-2 for load balancer according this tell me the configuration of security groups of 1 and 2.
+```
   
   
   
