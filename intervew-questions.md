@@ -53,6 +53,19 @@
   2. scenario: we have two vpc's pvc-1 and pvc-2. vpc-1 i have created for private database(db). vpc-2 i have created for ec2 server. now i want access private db through ec2 instance how we can do that.
 
 ```
+## Interview om 22-09-25
+```
+1. what is the different between Dockerfile and docker-compose
+2. can you please tell me what is the your project.
+3. Can you please explain your application archecture.
+4. If want deploy application in aws cloud tell me how will you do.
+5. some of the people able access application some of the people not able access application. how do you troubleshoot this issue.
+6. how will you start your ec2 server(High level).
+7. how will you configure load balancer for your application.
+8. what is the difference b/w api gateway and load balancer.
+9. Apllication running fine and there is no errors in logs but we are not able to access application. how will you troubleshoot this issue.
+10. what is the difference b/w terraform and ansible
+
   
   
   
