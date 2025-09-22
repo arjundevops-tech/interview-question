@@ -67,10 +67,29 @@
 10. what is the difference b/w terraform and ansible
 11. what is the blue /green deployment and what is the benifit we will get.
 
-  
-  
-  
-  
+```
+## Offline interview 
+1. Can you please tell how will create networking for application deployment.
 
-    
+2. what is the taint and toleration how it will work in Kubernetes.
+
+3. one of the server disk full not able to login how to troubustood to get ready server for login
+
+4. what is the difference b/w cmd and entripoint in docker file
+
+5. What is the difference b/w COPY and ADD in docker file
+
+7. If you want communicate one service to other service in Kubernetes how will configure
+
+8.  can you please write a multi stage docker file with build time we need java8 and runtime we need java 11 and how to pass nexus credentials dynamically to download dependencies from nexus only.
+
+9. 4096 ip's we have what is the CI_DR range for this
+
+10.  Can you write a Jenkins file for application deployment with Kubernetes.
+
+11. Can you write a code how to push Gradle build artifacts(jar) into nexus.
+
+13. Can you explain me what are the stages in pipeline
+
+``` 
   
