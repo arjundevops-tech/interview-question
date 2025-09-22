@@ -65,6 +65,7 @@
 8. what is the difference b/w api gateway and load balancer.
 9. Apllication running fine and there is no errors in logs but we are not able to access application. how will you troubleshoot this issue.
 10. what is the difference b/w terraform and ansible
+11. what is the blue /green deployment and what is the benifit we will get.
 
   
   
