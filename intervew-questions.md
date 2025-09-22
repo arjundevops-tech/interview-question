@@ -69,6 +69,7 @@
 
 ```
 ## Offline interview 
+```
 1. Can you please tell how will create networking for application deployment.
 
 2. what is the taint and toleration how it will work in Kubernetes.
